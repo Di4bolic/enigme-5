@@ -1,0 +1,111 @@
+body {
+    background-color: black;
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    color: white;
+}
+
+.coli {
+    width: 6%;
+    height: 6%;
+}
+
+.aig {
+    width: 12%;
+    height: 12%;
+}
+
+#aig1 {
+    position: absolute;
+    top: 3.4%;
+    left: 3%;
+    width: 16%;
+    height: 8%;
+}
+
+#aig2 {
+    position: absolute;
+    top: 21%;
+    left: 13%;
+    width: 21%;
+    height: 7%;
+}
+
+#aig3 {
+    position: absolute;
+    top: 22%;
+    left: 38%;
+    width: 20%;
+    height: 12%;
+}
+
+#aig4 {
+    position: absolute;
+    top: 34%;
+    left: 44.3%;
+    width: 20%;
+    height: 5%;
+}
+
+#aig5 {
+    position: absolute;
+    top: 43%;
+    left: 13.5%;
+    width: 23%;
+    height: 4%;
+}
+
+#aig6 {
+    position: absolute;
+    top: 57%;
+    left: 25%;
+    width: 21%;
+    height: 7%;
+}
+
+#aig7 {
+    position: absolute;
+    top: 71.2%;
+    left: 20%;
+    width: 12%;
+    height: 9%;
+}
+
+#formule {
+    color: white;
+    position: absolute;
+    margin-left: 37%;
+    visibility: hidden;
+}
+
+#parole {
+    color: white;
+    position: absolute;
+    margin-left: 37%;
+    top: 3.6%;
+    right: 10%;
+}
+
+#parole_bis {
+    color: white;
+    position: absolute;
+    margin-left: 37%;
+    top: 7%;
+    right: 35%;
+    visibility: hidden;
+}
+
+#parole_bis_bis {
+    color: white;
+    position: absolute;
+    margin-left: 37%;
+    top: 3.6%;
+    right: 10%;
+    visibility: hidden;
+}
